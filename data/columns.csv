@@ -1,0 +1,17 @@
+,,
+,U column,Column Type
+,u1,Product_Subcategory
+,u2,Product_Name
+,u5,Product_ID
+,u6,Is_First_Order
+,u7,User_Gender
+,u8,Payment_Type
+,u9,Number_of_Products
+,u10,Order_Coupon_Code
+,u11,City
+,u12,Country_Province
+,u13,User_Birthday
+,u14,User_ID
+,u15,Country_Code
+,u16,Order_ID
+,u17,Revenue(AUD)
